@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>icon/youtube.png</file>
+        <file>icon/youtube (1).png</file>
+        <file>icon/youtube (2).png</file>
+        <file>icon/youtube-logotype.png</file>
+        <file>icon/hand-shake.png</file>
+        <file>icon/handshake.png</file>
+        <file>icon/match (1).png</file>
+        <file>icon/match (2).png</file>
+        <file>icon/match.png</file>
+        <file>icon/Football_2-63_icon-icons.com_72058.png</file>
+        <file>icon/strategy.png</file>
+    </qresource>
+    <qresource prefix="/image">
+        <file>PlayerImage/1394670931.png</file>
+        <file>PlayerImage/1002969.png</file>
+        <file>PlayerImage/735216.png</file>
+        <file>PlayerImage/chendong.png</file>
+        <file>PlayerImage/chenlei.png</file>
+        <file>PlayerImage/james-johndaws.png</file>
+        <file>PlayerImage/Lionel_Messi.jpg</file>
+        <file>PlayerImage/liumeng.png</file>
+        <file>PlayerImage/panmin.png</file>
+        <file>PlayerImage/xiejunhui.png</file>
+    </qresource>
+</RCC>
