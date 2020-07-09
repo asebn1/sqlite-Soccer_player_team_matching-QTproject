@@ -35,6 +35,9 @@ Soccer player team matching was implemented by integrating sqlite with QT creato
 단순히 축구선수의 정보를 파악하는 것뿐만이 아닌 축구선수와 비교하여 같은 포지션 선수가 누구인지, 어떠한 능력을 가졌는지, 선수는 어떤 연봉을 가지고 있는지, 소속은 어디인지 보여줌으로써 사용자에게 구단 결정에 도움을 제공하는 것이 목표이다.
 
 
+
+
+
 # 설계 목표
 
 ## 요구 사항 등을 분석 정리한 내용 요약
